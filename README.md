@@ -14,7 +14,7 @@ que la programación es como un deporte en el que se debe practicar, habrá caí
 pero lo importante es levantarse y seguir adelante. Éxito.
 
 ## Requisitos
---Concluir los retos
+- Concluir los retos
 - Haber estudiado los ejemplos durante la sesión
 
 ## Desarrollo
@@ -42,8 +42,11 @@ separados
 
 
 5. Responde a las siguientes preguntas:
+
   a) ¿Cuántos goles tuvo el partido con mayor empate?
+
   b) ¿En cuántos partidos ambos equipos empataron 0 a 0?
+
   c) ¿En cuántos partidos el equipo local (HG) tuvo la mayor goleada sin dejar que el equipo visitante (AG) metiera un solo gol?
 
   __Notas para los datos de soccer:__ https://www.football-data.co.uk/notes.txt
