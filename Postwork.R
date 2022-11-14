@@ -26,7 +26,7 @@ análisis interesantes que se pueden aplicar a otras áreas. Siendo así damos p
 #   https://www.football-data.co.uk/spainm.php
 
 #2. Importa los datos a R como un Dataframe. NOTA: No olvides cambiar tu dirección de trabajo a la ruta donde descargaste tu archivo
-sp1 <- read.csv("SP1.csv")
+sp1 <- read.csv("data/SP1.csv")
 
 #4. Del dataframe que resulta de importar los datos a `R`, extrae las columnas que contienen los números de goles anotados por los 
 #   equipos que jugaron en casa (FTHG) y los goles anotados por los equipos que jugaron como visitante (FTAG); guárdalos en vectores
